@@ -3,3 +3,12 @@
   background:rgba(214, 234, 248, 0.26);
   top:-10px;
 }
+
+.carousel-caption>h1  {
+    font-size: 2rem;
+    border-width: medium;
+}
+
+#waySection>p{
+  font-size: 1.25rem;
+}
